@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:Doc
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://uri.etsi.org/01903/v1.3.2#"
+        xmlns:s="http://www.my.hu/somethingo"
+        xmlns:o="http://www.my.hu/otherthingo"
+>
+    <o:Object>other object inserted</o:Object>
+    <s:Title>sometitle
+        <o:Object>other object inserted into title</o:Object>
+    </s:Title>
+    <o:Object>other object2 inserted</o:Object>
+</s:Doc>
