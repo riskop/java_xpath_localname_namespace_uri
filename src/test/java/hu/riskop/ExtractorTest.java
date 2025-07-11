@@ -11,7 +11,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 @ExtendWith(SpringExtension.class)
-//@TestPropertySource("/XsignDossierService2/XsignDossierService2Test.properties")
 @ContextConfiguration(classes = { Extractor.class })
 public class ExtractorTest {
 
